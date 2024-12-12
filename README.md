@@ -12,7 +12,7 @@
 - :computer: TENGO QUE PENSAR QUE PONER AQUÍ.
 - :student: I’m currently studying `Computer Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for new `projects`, to practising my skills.
+- :thinking: I’m currently open for new `projects`, to practise my skills.
 <br>
 
 
