@@ -4,26 +4,26 @@
 
 <div align="left">
 
-```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} location - Spain.
- * @param {string} languagues - Spanish, English.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - Code-dev, databases & problem-solving.
- * @param {string} hobbies - Gym, Reading, gaming & playing music.
- * @param {string} education - I'm studying computer engineering at University of Valencia, Spain.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} Diego.
- */
-```
+```cpp
+struct PersonalInfo
+{
+  string name ("Diego Jose Provencio Moreno");
+  string location ("Valencia, Spain");
+};
 
+struct AcademicInfo
+{
+  string studies ("Computer Engineering");
+  string university ("University of Valencia, ETSE");
+  string learning ("C++, C, Python");
+};
+
+struct Interests
+{
+  string hobbies ("Training, Gaming, Playing music");
+  string stength ("--------");
+};
+```
 </div>
 
 
