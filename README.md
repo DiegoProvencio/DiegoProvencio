@@ -7,9 +7,9 @@
 <br>
 
 - :school: I am a `Freshmen` at Higher technical school of engineering at [University of Valencia](https://www.uv.es/).
-- :trophy: Always open for a new `Hackaton`.
+- :space_invader: Always open for a new `Hackaton`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: TENGO QUE PENSAR QUE PONER AQUÍ.
+- 🌱 I’m currently learning: `C++`, `C` & `Python`.
 - :student: I’m currently studying `Computer Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for new `projects`, to practise my skills.
