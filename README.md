@@ -10,7 +10,7 @@
 - :space_invader: Always open for a new `Hackaton`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - 🌱 I’m currently learning: `C++`, `C` & `Python`.
-- :student: I’m currently studying `Computer Engineering`.
+- :student: Actually studying `Computer Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for new `projects`, to practise my skills.
 <br>
