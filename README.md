@@ -6,7 +6,7 @@
 
 <br>
 
-- :school: I am a `Freshmen` at Higher technical school of engineering at [University of Valencia](https://www.uv.es/).
+- :school: I am a `Sophomore` at Higher technical school of engineering at [Polytechnic University of Valencia](https://www.upv.es/).
 - :space_invader: Always open for a new `Hackaton`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - 🌱 I’m currently learning: `C++`, `C` & `Python`.
