@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&strokeWidth=1&color=gradient&reversal=true" />
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&strokeWidth=50&color=gradient&reversal=true" />
 </div>
 
 <h1 align="center"><b>Hi, I'm Diego José Provencio</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -89,6 +89,6 @@ I’m looking to grow in tech environments where I can apply my knowledge of alg
 <div align="center">
   <img 
     width="100%" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=gradient&fontColor=ff6e96&stroke=50dafa&strokeWidth=40"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&fontColor=ff6e96&stroke=60dafa&strokeWidth=40"
   />
 </div>
