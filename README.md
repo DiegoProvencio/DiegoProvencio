@@ -30,11 +30,7 @@ I’m looking to grow in tech environments where I can apply my knowledge of alg
 
 ---
 
-## 🧰 Tech Stack
-
-<h3 align="left">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Languages & Tools
-</h3>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
