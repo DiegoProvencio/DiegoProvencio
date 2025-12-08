@@ -15,7 +15,7 @@ I’m looking to grow in tech environments where I can apply my knowledge of alg
 
 <img align="right" height="168" src="https://printler.com/media/photo/184286.jpg" />
 
-- 🎓 `Sophomore` at the Higher Technical School of Engineering, Polytechnic University of Valencia.  
+- 🎓 `Second-year` student at the School of Informatics, Polytechnic University of Valencia.  
 - 👾 Always excited to participate in `Hackathons`.  
 - 💻 I love using software to solve problems.  
 - 🌱 Currently learning C++, C, and Haskell.  
