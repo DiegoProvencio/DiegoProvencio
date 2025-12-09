@@ -73,11 +73,7 @@ I’m looking to grow in tech environments where I can apply my knowledge of alg
 ## 📊 GitHub Streak
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=DiegoProvencio&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
-    height="200"
-    alt="streak graph"
-  />
+  <img src="https://streak-stats.vercel.app?user=DiegoProvencio&theme=prussian" />
 </div>
 
 ---
